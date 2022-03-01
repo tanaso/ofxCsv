@@ -45,6 +45,7 @@ removeRow(int index)
 load(string cols, string separator)
 load(vector<string> cols)
 
+// get value with specified type
 getInt(int col)
 getFloat(int col)
 getString(int col)
